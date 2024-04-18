@@ -1,0 +1,147 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56963733862@s.whatsapp.net',
+    fromMe: false,
+    id: '3A52545ED44E3BCAE926',
+    participant: undefined
+  },
+  messageTimestamp: 1713407376,
+  pushName: 'Hell Maniac',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56963733862'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c10125c-e47e-4440-a7b0-02c86b5c75ed',
+  keyword: 'key_8097273f-19d8-4ae7-a9f2-002b927bde0a',
+  answer: '🙌 Hola soy Mimador, el bot de *Mimándote*. Te doy una cordial bienvenida. En cualquier momento podrás hablar con un humano si así lo requieres.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4ac215a3058861904dadf1b430fa9aff'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0d06646c-b524-406e-b8ec-e64a0a6ca1cc',
+  keyword: 'ans_1c10125c-e47e-4440-a7b0-02c86b5c75ed',
+  answer: '¿Qué duda puedo aclararte en este momento?\n' +
+    '👉 *Desayunos* disponibles en tu región\n' +
+    '👉 *Proveedor* para unirte como proveedor\n' +
+    '👉 *Ejecutivo* Para hablar con un ejecutivo de *Mimándote*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd95dde2444de0f6ab7eee2971b864822'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56963733862@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5E361C8DB8D5A3CBD0',
+    participant: undefined
+  },
+  messageTimestamp: 1713407382,
+  pushName: 'Hell Maniac',
+  broadcast: false,
+  message: Message {
+    conversation: 'Desayunos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Desayunos',
+  from: '56963733862'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14c6c7db-65f2-4b8d-9089-8e650e06380c',
+  keyword: 'key_db982c15-b365-4dcf-b35b-c68314727f36',
+  answer: 'Presiona el número correspondiente\n' +
+    '\n' +
+    '*1* Desayunos en Quilpué, Villa Alemana, Valparaíso\n' +
+    '\n' +
+    '*2* Desayunos en La Serena, Coquimbo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f96fa80f3734d440095333f40f9a6a36'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56963733862@s.whatsapp.net',
+    fromMe: false,
+    id: '3A54654BD5BA475F30B9',
+    participant: undefined
+  },
+  messageTimestamp: 1713407386,
+  pushName: 'Hell Maniac',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '56963733862'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c954e9f6-50ce-49c7-ae8f-aeb949bf547c',
+  keyword: 'key_0fed25d3-06db-4a6d-a21d-8533c3f9823e',
+  answer: {
+    media: 'https://www.mimandote.cl/newmimandote/admin/uploads/qlp001.jpg',
+    text: 'Esta es la imagen'
+  },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '45639a220d989253d4627930340fbf19'
+}
